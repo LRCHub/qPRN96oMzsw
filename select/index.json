@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "暴食",
+  "base_artist": "Dannie May",
+  "createdAt": "2026-03-29T04:59:09.668366Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暴食",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_暴食_Dannie_May.txt"
+    }
+  ]
+}
